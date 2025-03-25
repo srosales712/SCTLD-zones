@@ -1,1 +1,1 @@
-This repository corresponds to the work titled "Stony coral tissue loss disease results in persistent microbial-level disturbances on coral reef ecosystems." The data folder contains metadata file, and compressed versions of the taxonomy and ASV count table 
+This repository corresponds to the work titled "Stony coral tissue loss disease results in persistent microbial-level disturbances on coral reef ecosystems." The data folder contains the metadata file and compressed taxonomy and ASV count tables. 
