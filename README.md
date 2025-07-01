@@ -3,7 +3,7 @@
 
 
 📘 This repository contains data and code for the study titled
-“Stony coral tissue loss disease results in persistent microbial-level disturbances on coral reef ecosystems.”
+# “Stony coral tissue loss disease results in persistent microbial-level disturbances on coral reef ecosystems.”
 
 Specifically, we (1) analyzed diversity and co-occurrence patterns over time, (2) predicted functional shifts in microbial communities in response to SCTLD, and (3) evaluated the persistence of SCTLD-associated bacterial biomarkers (Rosales et al. 2023) across sites and disease stages.
 
