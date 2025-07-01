@@ -1,7 +1,7 @@
 📘 This repository contains data and code for the study titled
 “Stony coral tissue loss disease results in persistent microbial-level disturbances on coral reef ecosystems.”
 
-📂 The data/ directory includes the associated metadata and compressed files of taxonomy and ASV (Amplicon Sequence Variant) counts.
+📂 The Data/ directory includes the associated metadata and compressed files of taxonomy and ASV (Amplicon Sequence Variant) counts.
 
 🐍 The analysis code is provided as Python notebooks, allowing outputs to be viewed alongside the code.
 
