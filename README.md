@@ -10,8 +10,8 @@ Specifically, we (1) analyzed diversity and co-occurrence patterns over time, (2
 📂 The Data/ directory includes the associated metadata for:
 1. The sequence data (meta_EPA2.csv)
 2. Benthic habitat data (CREMP_percentcover_taxagroups.csv, CREMP_LTA.csv, CREMP_Counts.csv, and DRM.T1T2data.LK.csv)
-3. Compressed taxonomy (tax_EPA2.qza) and
-4.  Compressed ASV (Amplicon Sequence Variant) counts (merged_tables_BacArc_fill_EPA2.qza).
+3. Compressed taxonomy (tax_EPA2.qza) 
+4. Compressed Amplicon Sequence Variant counts (merged_tables_BacArc_fill_EPA2.qza).
 
 🐍 The analysis code is provided as Python notebooks, allowing outputs to be viewed alongside the code.
 
